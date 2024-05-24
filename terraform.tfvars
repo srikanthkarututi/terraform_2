@@ -1,0 +1,7 @@
+rg = "rg-c2s-azurecore-poc-dev"
+vmssvnet = "vmssvnet1"
+vmss_nsg = "nsg_01"
+location = "East US"
+sub_0 = "subnet_0"
+sub_1 = "subnet_1"
+principal_id = ""
